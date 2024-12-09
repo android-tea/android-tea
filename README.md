@@ -1,8 +1,8 @@
 # 👋 Hello, World! I'm drea  
 
-![Banner](https://your-repo-link/ANDREA.png)  
+![Banner](https://your-repo-link/banner.png)  
 <!-- Replace 'https://your-repo-link/banner.png' with the actual link to your banner image -->
-![Uploading ANDREA.png…]()
+
 
 A passionate **BSIT student** with curiosity and ambition, just starting out on this amazing tech journey. 🌟  
 
