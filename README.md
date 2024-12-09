@@ -4,7 +4,7 @@
 
 
 
-A passionate **BSIT student** with curiosity and ambition, just starting out on this amazing tech journey. 🌟  
+A **BSIT student** with curiosity and ambition, just starting out on this amazing tech journey. 🌟  
 
 ---
 
@@ -18,13 +18,6 @@ I'm dedicated to building a solid foundation in programming and web development.
 
 ---
 
-## 💡 Interests  
-- **Cybersecurity:**  
-  Exploring tools, methods, and strategies to protect digital assets.  
-- **System Design:**  
-  Crafting intuitive solutions to make life simpler and more efficient.  
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=android-tea&show_icons=true&theme=tokyonight)  
