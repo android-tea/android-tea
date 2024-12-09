@@ -1,6 +1,7 @@
 # 👋 Hello, World! I'm drea  
 
-[![banner](https://your-repo-link/banner.png)  ](https://github.com/android-tea/android-tea/blob/614b4002cd17bd85525d7d8529b672f58c09dd0b/banner.png)
+![Banner](https://github.com/android-tea/android-tea/raw/main/banner.png)
+
 
 
 A passionate **BSIT student** with curiosity and ambition, just starting out on this amazing tech journey. 🌟  
