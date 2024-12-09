@@ -5,7 +5,7 @@
 
 
 
-A **BSIT student** with curiosity and just starting out on this amazing tech journey. 🌟  
+A **BSIT student** just starting out on this amazing tech journey. 🌟  
 
 ---
 
