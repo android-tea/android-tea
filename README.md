@@ -1,7 +1,6 @@
 # 👋 Hello, World! I'm drea  
 
-
-![Banner](https://github.com/android-tea/android-tea/raw/main/banner.png)
+![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
 
 
 
