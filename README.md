@@ -1,12 +1,14 @@
-# 👋 Hello, World! I'm @android-tea  
+# 👋 Hello, World! I'm drea  
+
+![Banner](https://your-repo-link/banner.png)  
+<!-- Replace 'https://your-repo-link/banner.png' with the actual link to your banner image -->
+
 A passionate **BSIT student** with curiosity and ambition, just starting out on this amazing tech journey. 🌟  
-## 😄 Pronouns: she/her  
 
 ---
 
-## 🌱 What I’m Learning 
-I'm dedicated to building a solid foundation in programming and web development. 
-Currently focus:  
+## 🌱 What I’m Learning  
+I'm dedicated to building a solid foundation in programming and web development. Current focus:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -29,5 +31,6 @@ Currently focus:
 
 ---
 
+## 😄 Pronouns: she/her  
 
-✨ _I'm excited to connect, learn, and grow with this amazing tech community. Check out my repositories to see my journey unfold!_  
+✨ _I'm excited to connect, learn, and grow with this amazing tech community. _
