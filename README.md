@@ -1,7 +1,6 @@
 # 👋 Hello, World! I'm drea  
 
-![Banner](https://your-repo-link/banner.png)  
-<!-- Replace 'https://your-repo-link/banner.png' with the actual link to your banner image -->
+[![banner](https://your-repo-link/banner.png)  ](https://github.com/android-tea/android-tea/blob/614b4002cd17bd85525d7d8529b672f58c09dd0b/banner.png)
 
 
 A passionate **BSIT student** with curiosity and ambition, just starting out on this amazing tech journey. 🌟  
