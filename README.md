@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm drea  
+# 👋 Hello, World! 
 
 ![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
 
