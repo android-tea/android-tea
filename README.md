@@ -1,4 +1,4 @@
-# 👋 Hello, World! 
+# 👋 Hello, World! ![views](https://komarev.com/ghpvc/?android-tea=android-tea)
 
 ![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
 
