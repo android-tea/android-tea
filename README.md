@@ -1,5 +1,5 @@
 
-#Hello World ! 👋 "I asked my computer to be funny, but it just gave me a ‘404’ error."
+**Hello World !** 👋 "I asked my computer to be funny, but it just gave me a ‘404’ error."
 
 ![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
 
