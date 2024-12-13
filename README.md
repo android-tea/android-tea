@@ -1,9 +1,7 @@
-# 👋 Hello, World! ![views](https://komarev.com/ghpvc/?android-tea=android-tea)
+# 👋 Hello, World! 
+![views](https://komarev.com/ghpvc/?username=android-tea)
 
 ![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
-
-
-
 
 A **BSIT student** just starting out on this amazing tech journey. 🌟  
 
@@ -15,9 +13,7 @@ A **BSIT student** just starting out on this amazing tech journey. 🌟
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
-
 ---
-
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=android-tea&show_icons=true&theme=tokyonight)  
@@ -27,4 +23,4 @@ A **BSIT student** just starting out on this amazing tech journey. 🌟
 
 ## 😄 Pronouns: she/her  
 
-✨ _I'm excited to connect, learn, and grow with this amazing tech community. _
+✨ _I'm excited to connect, learn, and grow with this amazing tech community._
