@@ -1,9 +1,9 @@
 
-#Hello World or Bye World?
+#Hello World ! 👋 "I asked my computer to be funny, but it just gave me a ‘404’ error."
 
 ![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
 
-👋 "I asked my computer to be funny, but it just gave me a ‘404’ error."
+
 A **BSIT student** just starting out on this amazing tech journey. 🌟  
 
 ---
