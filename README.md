@@ -1,8 +1,9 @@
-# 👋 Hello, World! 
-![views](https://komarev.com/ghpvc/?username=android-tea)
+
+#Hello World or Bye World?
 
 ![Banner](https://github.com/android-tea/android-tea/raw/main/banner1.png)
 
+👋 "I asked my computer to be funny, but it just gave me a ‘404’ error."
 A **BSIT student** just starting out on this amazing tech journey. 🌟  
 
 ---
@@ -23,4 +24,9 @@ A **BSIT student** just starting out on this amazing tech journey. 🌟
 
 ## 😄 Pronouns: she/her  
 
-✨ _I'm excited to connect, learn, and grow with this amazing tech community._
+✨ Still figuring out how to make 'Hello World' say 'Hi There, Coder! and avoid that pesky ‘404’ error.'
+
+
+
+![views](https://komarev.com/ghpvc/?username=android-tea)
+
